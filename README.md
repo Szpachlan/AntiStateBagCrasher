@@ -16,7 +16,7 @@ Make sure to ensure at the top for resource to be effective for every exploiter
 ### 3. Restart server and enjoy protection
 
 # Remember that the best possible protection for this kind of exploiting is to update your FiveM artifacts at 
-[Windows](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/)
+[Windows](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/)  
 [Linux](https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/)
 
 # Credits
